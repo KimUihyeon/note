@@ -4,10 +4,10 @@
 ## 1. porn
 
 >### 1-1 porn.xml
-	Spring 3.1.1 full file_
+	Spring 3.1.1 porn.xml full file_
 
 >### 1-2 porn_plugin.xml
-	Spring 3.1.1 plugin file_
+	Spring 3.1.1 porn.xml plugin file_
 
 		plugin              version
 		----------------------------
