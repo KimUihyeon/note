@@ -9,7 +9,7 @@
 	Spring 3.1.1 plugin file_
 
 "`
-	plugin		||	version
+	plugin			version
 	tiles				2.2.2
 	JDBC				4.1.4
 	myBatis-Splring 	1.2.2
