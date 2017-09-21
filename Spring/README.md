@@ -47,5 +47,5 @@
 	
 		Contain List
 		----------------------------
-		1. 선언문(tiles, @page, )
+		1. 선언문(tiles, @page, jstl )
 ---
