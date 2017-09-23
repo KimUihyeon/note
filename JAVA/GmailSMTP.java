@@ -46,7 +46,7 @@ public class GmailSMTP {
 		
 		
 		try {
-			adminId= "dkrnl1318@gmail.com";
+			adminId= "송신자 메일";
 			
 			
 	        Properties props = new Properties();
@@ -61,14 +61,14 @@ public class GmailSMTP {
 	         
 	        Authenticator auth = new Authenticator(){
 	            protected PasswordAuthentication getPasswordAuthentication() {
-	                return new PasswordAuthentication("dkrnl1318@gmail.com", "rhwbmsbsyuhdgtuu");
+	                return new PasswordAuthentication(adminId, adminPw);
 	            }
 	        };
 	    
 	        Session session = Session.getDefaultInstance(props,auth);
 	         
 	        MimeMessage message = new MimeMessage(session);
-	        message.setSender(new InternetAddress("dkrnl1318@gmail.com"));
+	        message.setSender(new InternetAddress(adminId));
 	        message.setSubject(title);
 	 
 	        message.setRecipient(Message.RecipientType.TO, new InternetAddress(sendId));
