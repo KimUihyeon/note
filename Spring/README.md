@@ -49,3 +49,13 @@
 		----------------------------
 		1. 선언문(tiles, @page, jstl )
 ---
+## 6. Ajax_JSON
+	
+		Contain List
+		----------------------------
+		1. Ajax.js
+		2. Contoller.java
+		3. porn.xml
+		4. web.xml
+		(맵핑을 하면 Tiles setting은 안해도 된다.)
+---

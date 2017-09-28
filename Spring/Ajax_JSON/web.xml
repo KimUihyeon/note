@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!-- Ajax 맵핑 -->
+	<servlet-mapping>
+		<servlet-name>appServlet</servlet-name>
+		<url-pattern>*.Ajax</url-pattern>
+	</servlet-mapping>
