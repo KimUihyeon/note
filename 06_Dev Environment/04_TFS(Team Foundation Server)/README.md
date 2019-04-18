@@ -3,16 +3,20 @@
 ## 목차
 1. :thought_balloon: Version 
 1. :thought_balloon: Visual Studio Connect 
-    1. :thought_balloon: remove WorkSpace (작업영역 삭제) 
-    1. :thought_balloon: mapping WorkSpace (작업영역 추가) | git Clone
-    1. :thought_balloon: add Group Directory
-    1. :thought_balloon: add Directory 
+    * :thought_balloon: remove WorkSpace (작업영역 삭제) 
+    * :thought_balloon: mapping WorkSpace (작업영역 추가) | git Clone
+    * :thought_balloon: add Group Directory
+    * :thought_balloon: add Directory 
 1. :thought_balloon: Visual Studio Dispose Connect 
-    1. :thought_balloon: Delete FTS Cache Data (캐시삭제) 
-    1. :thought_balloon: project FTS Dipose (프로젝트 연결해제)
-    
-1. :thought_balloon: TFS Branch 
-    1. :thought_balloon: project FTS Cache Data (프로젝트 연결해제)
+    * :thought_balloon: Delete FTS Cache Data (캐시삭제) 
+    * :thought_balloon: project FTS Dipose (프로젝트 연결해제)
+1. :chicken: 기능
+    * Undo (git Reset)
+    * Cheke In (git Push)
+    * Cheke Out (?? 알수없음)
+    * Get Latset Version (git fatch after pull)
+
+
 
 <br>
 <br>
@@ -24,7 +28,7 @@
 
 `visual Studio 2013 | 2015 | 2017 | 2019`
 
-`Team Foundation Server 2013 | 2015 | 2019 DevObs`
+`Team Foundation Server 2013 | 2015 | 2019 DevOps`
 
 <br>
 <br>
