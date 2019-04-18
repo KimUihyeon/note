@@ -1,20 +1,12 @@
 # title
 
 ## 목차
-1. :star2: let, const, var [link](#hoisting)
 1. :email: NPM [link](#1.NPM)
 
 
 <br>
 <br>
-
-### 1. let, const, var
-*
-```
-
-```
-*
-> Hoisting이란? [blog link](https://github.com/KimUihyeon/Utility/tree/master/MailService) 
+<hr>
 
 
 

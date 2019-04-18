@@ -1,7 +1,7 @@
 # visual Studio Code
 
 ## 목차
-1. :rose: 사용 플러그인 
+1. :rose: 사용 플러그인
 
 <br>
 <br>
@@ -34,3 +34,4 @@
 |vscode-icons   |visual code Icon Theme||
 |Vetur   |vuejs , VueCli Extention||
 |vue2 snippets   |vuejs , VueCli Extention||
+|Live Share   |여러명이서 같은 코드를 동시에 작업하는 확장 플러그인||

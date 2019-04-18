@@ -1,6 +1,7 @@
 # TFS - visual Studio 환경 및 사용법 (Team Foundation Server)
 
 ## 목차
+1. :blowfish: TFS 동작원리
 1. :thought_balloon: Version 
 1. :thought_balloon: Visual Studio Connect 
     * :thought_balloon: remove WorkSpace (작업영역 삭제) 
@@ -21,6 +22,15 @@
 <br>
 <br>
 
+<hr>
+
+### TFS 동작원리
+
+
+
+
+<br>
+<br>
 <hr>
 
 ### Version
