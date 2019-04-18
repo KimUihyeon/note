@@ -43,6 +43,9 @@
 ### TFS(Team Foundation Server)
 > Microsoft Team Foundation Server | [개발사링크](https://docs.microsoft.com/ko-kr/visualstudio/releasenotes/tfs2018-relnotes)  | [ KUH Github Link](https://docs.microsoft.com/ko-kr/visualstudio/releasenotes/tfs2018-relnotes)  
 
+1. 팀파운데이션 환경세팅 하기
+1. 팀파운데이션 사용법
+
 <br>
 <br>
 <hr>
