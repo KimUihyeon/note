@@ -1,18 +1,18 @@
 # TFS - visual Studio 환경 및 사용법 (Team Foundation Server)
 
 ## 목차
-1. :email: Version [link](#Version)
-1. :email: Visual Studio Connect [link](#VisualStudioConnect)
-    1. :email: remove WorkSpace (작업영역 삭제) [link](#RemoveWorkSpace)
-    1. :email: mapping WorkSpace (작업영역 추가) | git Clone[link](#MappingWorkSpace)
-    1. :email: add Group Directory [link](#AddGroupDirectory)
-    1. :email: add Directory [link](#AddDirectory)
-1. :email: Visual Studio Dispose Connect [link](#VisualStudioDisposeConnect)
-    1. :email: Delete FTS Cache Data (캐시삭제)[link](#MailService)
-    1. :email: project FTS Dipose (프로젝트 연결해제)[link](#MailService)
+1. :thought_balloon: Version 
+1. :thought_balloon: Visual Studio Connect 
+    1. :thought_balloon: remove WorkSpace (작업영역 삭제) 
+    1. :thought_balloon: mapping WorkSpace (작업영역 추가) | git Clone
+    1. :thought_balloon: add Group Directory
+    1. :thought_balloon: add Directory 
+1. :thought_balloon: Visual Studio Dispose Connect 
+    1. :thought_balloon: Delete FTS Cache Data (캐시삭제) 
+    1. :thought_balloon: project FTS Dipose (프로젝트 연결해제)
     
-1. :email: TFS Branch [link](#DeleteFTSCacheData)
-    1. :email: project FTS Cache Data (프로젝트 연결해제)[link](#projectFTSDipose)
+1. :thought_balloon: TFS Branch 
+    1. :thought_balloon: project FTS Cache Data (프로젝트 연결해제)
 
 <br>
 <br>
