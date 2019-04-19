@@ -5,4 +5,4 @@
 1. :email: git Command
 1. :email: github Tool
 1. :email: gitLab
-1. :email: slack
+1. :email: slack  
