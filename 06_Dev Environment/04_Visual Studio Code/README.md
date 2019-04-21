@@ -9,6 +9,10 @@
 ### plug In
 > 사용 플러그인 (최종업데이트 19.04.18 Office Desktop)
 
+> 셋팅 동기화 
+
+<font color='#fff'>f942bcb833976467d1bda59562a5f0dbd0e982e9</font>
+
 |  플러그인 명              |                                         설명                               |   링크   |
 |:------------------------:|:---------------------------------------------------------------------------|---------:|
 |Auto Close Tag            |닫는 태그 자동완성 플러그인                                                   ||
@@ -35,3 +39,4 @@
 |Vetur   |vuejs , VueCli Extention||
 |vue2 snippets   |vuejs , VueCli Extention||
 |Live Share   |여러명이서 같은 코드를 동시에 작업하는 확장 플러그인||
+|settings sync| github gist를 토큰으로 다른 디바이스와 vsCode Setting을 맞춰줌|
