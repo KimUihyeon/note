@@ -129,7 +129,7 @@
 
         ```
 
-        ![123123](../../assets/image/C#_badCodingStyle-1.jpg)
-        ![123123](../../assets/image/C#_badCodingStyle-2.jpg)
+        ![123123](https://github.com/KimUihyeon/note/blob/master/assets/image/C#_badCodingStyle-1.jpg)
+        ![123123](https://github.com/KimUihyeon/note/blob/master/assets/image/C#_badCodingStyle-2.jpg)
 
         실제 제작했던 WPF Canvas ReRendering Function, 비슷한 유형의 인자가 너무 많아서 구별하기 쉽지 않다. 쓰기도 쉽지 않고, 내부적으로 구현하기도 쉽지 않았다. 
