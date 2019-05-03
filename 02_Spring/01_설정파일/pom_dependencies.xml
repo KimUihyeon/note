@@ -4,7 +4,7 @@
 <!--
     작성자        : 김의현 
     Lib Name     : pom.xml 프로퍼티
-    Description  : Maven 의존 프로퍼티
+    Description  : Maven Lib
 -->
 <properties>
     <java-version>1.6</java-version>
