@@ -8,7 +8,7 @@
 
 ---
 ## Single Pattern
-	싱글턴 패턴
+	싱글턴 패턴 
 
 ---
 ## SMTP (Mail)
