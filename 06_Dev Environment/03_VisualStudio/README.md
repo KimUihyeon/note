@@ -19,18 +19,17 @@
 
 ### KeyBoard Setting Tempalate
 
-> visual Studio Export 생성시
+> 내보내기 항목
 
-`tool - Import and Export Settings`
-
-* Text Edirot
-* Key board
-* Fonts and colors
-* enerial
+* General Setting - All Check
+* Options - Environment 빼고 다 체크
+* 다른건 다 체크 해제
 
 [visual 2015 다운로드 셋팅파일 링크]()
 
 [visual 2017 다운로드 셋팅파일 링크]()
+
+[visual 2019 다운로드 셋팅파일 링크]()
 
 <br>
 <br>
