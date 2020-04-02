@@ -1,11 +1,7 @@
-# title
+# Spring mvc 설정파일 for maven
 
-## 목차
-1. :email: MailService [link](#MailService)
+> inteliJ Spring mvc 설정을 위해 작성 되었다.
 
-
-<br>
-<br>
-
-### Section
-> section description [link](https://github.com/KimUihyeon/Utility/tree/master/MailService) 
+* dispatcher-servlet.xml
+* pom_dependencies.xml
+* web.xml
